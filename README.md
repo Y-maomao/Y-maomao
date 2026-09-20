@@ -1,12 +1,20 @@
-- 👋 Hi, I’m @Y-maomao
-- 👀 I’m interested in anything...
-- 🌱 I’m currently learning ML...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me @ ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 吴有博
 
-<!---
-Y-maomao/Y-maomao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+四川大学数学学院 2008级 统计学专业 本科
+2012年毕业 | 理学学士
+
+### 专业方向
+- 数理统计 / 概率模型 / 数据分析 / 量化建模 / 数据风控
+- CPA（注册会计师）
+
+### 学历背景
+- 学校：四川大学（Sichuan University）
+- 学院：数学学院
+- 专业：统计学
+- 入学：2008年
+- 毕业：2012年
+- 学位：理学学士
+- 招生方式：数学类大类招生，大二下学期专业分流至统计学
+
+### 详情
+[学历背景溯源页面](https://y-maomao.github.io/scu-statistics-profile/)
